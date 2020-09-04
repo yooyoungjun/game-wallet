@@ -1,0 +1,14 @@
+game\WalletController.class
+game\Allocated.class
+game\external\Gift.class
+game\external\GiftService.class
+game\external\GiftServiceFallback.class
+game\Issued.class
+game\WalletRepository.class
+game\config\kafka\KafkaProcessor.class
+game\PolicyHandler.class
+game\WalletApplication.class
+game\Exchanged.class
+game\AbstractEvent.class
+game\AbstractEvent$1.class
+game\Wallet.class
