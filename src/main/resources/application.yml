@@ -68,8 +68,4 @@ spring:
           contentType: application/json
 api:
   url:
-<<<<<<< HEAD
     gift: http://gift:8080
-=======
-    gift: http://gift:8080
->>>>>>> d256a99... application.yml
