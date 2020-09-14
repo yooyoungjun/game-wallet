@@ -66,6 +66,3 @@ spring:
         event-out:
           destination: game
           contentType: application/json
-api:
-  url:
-    gift: http://gift:8080

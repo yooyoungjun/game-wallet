@@ -38,7 +38,7 @@ public class Wallet {
         gift.setStatus("Exchanged.");
         // mappings goes here
         WalletApplication.applicationContext.getBean(game.external.GiftService.class)
-            .exchange(gift);
+                .exchange(gift);
 
     }
 
